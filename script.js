@@ -16,8 +16,8 @@ request.onload = function(){
             var population = result[i].population;
             console.log("CountryName : " + CountryName);
             console.log("region : " +region);
-            console.log("Subregion : " +Subregion);
-            console.log("Population : "+ Population);
+            console.log("subregion : " +subregion);
+            console.log("population : "+ population);
             
       }
       
